@@ -55,7 +55,7 @@ He can impress 4+8=12 girls if he runs at his best speed between the 2nd and the
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-04T05:12:49.740Z  
+**Submitted:** 2026-11-04T05:13:20.553Z  
 
 ```java
 import java.util.Scanner;
