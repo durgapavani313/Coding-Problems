@@ -22,7 +22,7 @@ Notebook	$2.50	5
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-05T05:02:03.778Z  
+**Submitted:** 2026-11-05T05:02:25.382Z  
 
 ```c_cpp
 #include <stdio.h>
@@ -30,7 +30,7 @@ Notebook	$2.50	5
 int main() {
     
 	printf("Item:\t\tPrice:\tQuantity:\n");
-	printf("\t\t$1.20\t10\n");
+	printf("Pen\t\t$1.20\t10\n");
 	printf("Notebook\t$2.50\t5");
 	
 	return 0;
