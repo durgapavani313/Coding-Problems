@@ -23,7 +23,7 @@ int main({                   // Line 2
 **Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-10T13:20:28.653Z  
+**Submitted:** 2026-11-10T13:21:17.375Z  
 
 ```cpp
 #include <stdio.h>
