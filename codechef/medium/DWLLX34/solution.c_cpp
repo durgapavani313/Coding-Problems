@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    int Product_Quantity;
+    Product_Quantity = 50;
+    printf("Product Quantity: %d",Product_Quantity);
+    return 0;
+}
+
