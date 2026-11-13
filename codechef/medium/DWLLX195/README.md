@@ -4,32 +4,16 @@
 
 ## Problem
 
-### MCQ - Simple Calculator in C
-
-What does the  **`scanf()`**  function do in the following C code?
-
-```
-#include <stdio.h>
-
-int main() {
-    int number;
-
-    scanf("%d", &number);  
-
-    printf("You entered: %d\n", number);
-    return 0;
-}
-
-```
+_Description not available._
 
 ## Solution
 
-**Language:** C++  
+**Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-13T15:11:11.167Z  
+**Submitted:** 2026-11-13T15:10:07.854Z  
 
-```cpp
+```c_cpp
 #include <stdio.h>
 
 int main() {
