@@ -9,6 +9,7 @@ int main() {
     
     printf("Balance in millions: %d million", balance);// Print the value of millions portion
     
+    printf("\n");
     
     printf("Total Bank Balance: %d millions", Bank_Balance);// Print the total bank balance
     
