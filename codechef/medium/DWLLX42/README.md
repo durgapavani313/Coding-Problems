@@ -21,7 +21,7 @@ Total Bank Balance: 10000000 millions
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-14T15:26:50.801Z  
+**Submitted:** 2026-11-14T15:28:13.336Z  
 
 ```c_cpp
 #include <stdio.h>
@@ -35,6 +35,7 @@ int main() {
     
     printf("Balance in millions: %d million", balance);// Print the value of millions portion
     
+    printf("\n");
     
     printf("Total Bank Balance: %d millions", Bank_Balance);// Print the total bank balance
     
