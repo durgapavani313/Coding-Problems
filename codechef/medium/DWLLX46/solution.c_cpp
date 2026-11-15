@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+    // Declare a float variable for the radius and initialize it with 5.345
+    float radius = 5.345;
+
+    // Declare a double variable for the area and initialize it with 89.752232
+    double area = 89.752232;
+
+    // Print the radius of the circle
+    printf("Radius: %f", radius);
+
+    // Print the area of the circle
+    printf("\nArea: %lf", area);
+
+
+    return 0;
+}
