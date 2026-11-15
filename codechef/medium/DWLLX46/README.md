@@ -27,7 +27,7 @@ Area: 89.752232
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-15T13:32:30.452Z  
+**Submitted:** 2026-11-15T13:32:51.784Z  
 
 ```c_cpp
 #include <stdio.h>
