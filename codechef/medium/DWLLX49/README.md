@@ -20,7 +20,7 @@ The letter is W and the day is Wednesday
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-16T12:51:01.559Z  
+**Submitted:** 2026-11-16T12:51:27.702Z  
 
 ```c_cpp
 #include <stdio.h>
@@ -29,7 +29,7 @@ int main() {
     // Declare a char variable to store the first letter of a day
     char day = 'W'; // For example, 'W' for Wednesday
     
-    printf("The letter is %c ad te day is Wednesday"); // Print the name of the day
+    printf("The letter is %c ad te day is Wednesday",day); // Print the name of the day
     
     return 0;
 }
