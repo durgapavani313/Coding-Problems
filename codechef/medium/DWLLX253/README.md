@@ -4,16 +4,40 @@
 
 ## Problem
 
-_Description not available._
+### Switch
+
+What will be the output of the following C code?
+
+```
+#include <stdio.h>
+
+int main() {
+    int x = 1;
+
+    switch (x) {
+        case 1:
+            printf("One\n");
+        case 2:
+            printf("Two\n");
+        case 3:
+            printf("Three\n");
+        default:
+            printf("Default\n");
+    }
+
+    return 0;
+}
+
+```
 
 ## Solution
 
-**Language:** c_cpp  
+**Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-19T01:10:58.809Z  
+**Submitted:** 2026-11-19T01:11:47.319Z  
 
-```c_cpp
+```cpp
 #include <stdio.h>
 
 int main() {
