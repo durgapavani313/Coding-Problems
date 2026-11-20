@@ -1,0 +1,13 @@
+
+#include <stdio.h>
+
+int main() {
+    // Declare an integer array for 5 student grades
+    int grades[5];
+    
+    // Declare a character array for 7 days of the week
+    char days[7];
+    
+    printf("Arrays declared successfully!\n");
+    return 0;
+}
