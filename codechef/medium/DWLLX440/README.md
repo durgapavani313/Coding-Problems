@@ -20,7 +20,7 @@ Arrays declared successfully!
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-20T00:35:55.447Z  
+**Submitted:** 2026-11-20T00:36:09.359Z  
 
 ```c_cpp
 
