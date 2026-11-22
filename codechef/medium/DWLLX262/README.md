@@ -4,16 +4,34 @@
 
 ## Problem
 
-_Description not available._
+### Fill in the Blank - While Loop Basics
+
+Complete the code so it prints `World!` once using a while loop:
+
+```
+#include <stdio.h>
+
+int main() {
+    int count = _____;  // Fill in the blank
+
+    while (_____) {    // Fill in the blank
+        printf("World!\n");
+        count = _____;  // Fill in the blank
+    }
+
+    return 0;
+}
+
+```
 
 ## Solution
 
-**Language:** c_cpp  
+**Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-22T07:00:50.680Z  
+**Submitted:** 2026-11-22T07:02:23.623Z  
 
-```c_cpp
+```cpp
 #include <stdio.h>
 
 int main() {
