@@ -33,13 +33,13 @@ The result of 5 + 3 is:
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-23T11:57:07.052Z  
+**Submitted:** 2026-11-23T11:57:24.269Z  
 
 ```c_cpp
 #include <stdio.h>
 
 int main() {
-	printf("The result of 5 + 3 is:%d\n", 5 + 3);
+	printf("The result of 5 + 3 is:\n%d", 5 + 3);
 	return 0;
 
 }
