@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("The result of 5 + 3 is:%d\n", 5 + 3);
+	printf("The result of 5 + 3 is:\n%d", 5 + 3);
 	return 0;
 
 }
