@@ -37,13 +37,13 @@ Output
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-23T12:03:12.250Z  
+**Submitted:** 2026-11-23T12:02:24.321Z  
 
 ```c_cpp
 #include <stdio.h>
 
 int main() {
-	printf("  *\n ***\n *****\n*******");
+	printf("  *\n***\n*****\n*******");
 	return 0;
 
 }
