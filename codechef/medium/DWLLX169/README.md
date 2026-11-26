@@ -21,7 +21,7 @@ Final Result (Right-to-left): 300
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-26T11:05:33.553Z  
+**Submitted:** 2026-11-26T11:06:38.030Z  
 
 ```c_cpp
 #include <stdio.h>
