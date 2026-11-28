@@ -27,7 +27,7 @@ Section Number: 12
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-28T15:28:07.880Z  
+**Submitted:** 2026-11-28T15:28:35.148Z  
 
 ```c_cpp
 #include <stdio.h>
@@ -37,8 +37,8 @@ int main() {
     int ID = 20231;
     int section = 12; // Declare and initialize student details
     
-    printf("Student Grade: %c", grade);
-    printf("Stdent ID: %d", ID);
+    printf("Student Grade: %c\n", grade);
+    printf("Stdent ID: %d\n", ID);
     printf("Section Number: %d", section);// Print student details
 
     return 0;
