@@ -22,7 +22,7 @@ After subtraction assignment (-= 4): 26
 **Language:** c_cpp  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-11-28T15:04:06.488Z  
+**Submitted:** 2026-11-28T15:04:20.188Z  
 
 ```c_cpp
 #include <stdio.h>  
